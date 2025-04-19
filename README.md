@@ -1,8 +1,8 @@
-# 📊 Sales Data Analysis – Task 6
+# Sales Data Analysis – Task 6
 
-## ✅ Objective
+## Objective
 To perform data analysis on a sales dataset using SQL and visualize insights using Power BI. The goal is to understand sales performance, category-wise revenue, top products, and monthly trends.
-## 🧠 Steps Performed
+## Steps Performed
 
 ### 1. Data Preparation
 - Created a `sales_data` table in MySQL with fields like `product_name`, `category`, `price`, `quantity`, and `sale_date`.
@@ -28,7 +28,7 @@ To perform data analysis on a sales dataset using SQL and visualize insights usi
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 - **Technology** category contributes the highest revenue (~39.4%).
 - **Staples** is the most sold product by volume.
@@ -37,6 +37,6 @@ To perform data analysis on a sales dataset using SQL and visualize insights usi
 
 ---
 
-## 🧾 Tools Used
+## Tools Used
 - **MySQL Workbench** – for SQL-based analysis
 - **Power BI** – for data visualization
